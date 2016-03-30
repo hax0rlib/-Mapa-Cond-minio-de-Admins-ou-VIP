@@ -1,3 +1,11 @@
+/**
+ *
+ * @author Hax0rlib (André)
+ * @mentions Day_ and Coringa253 muito obrigado!
+ * @version 0.1.1a Beta
+ *
+ */
+
 #include                                 <a_samp>
 #include                                 <streamer>
  
